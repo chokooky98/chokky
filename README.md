@@ -1,2 +1,2 @@
-# chokky
-chokky
+# pongtwo
+Jogo pong no JavaScript
